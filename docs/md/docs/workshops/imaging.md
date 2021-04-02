@@ -19,4 +19,11 @@ Implementar:
 * Antes de las 24h del 4/4/21.
 * Exposiciones en las clase(s) subsiguiente(s). Tiempo: 7m (5m presentación del reporte + 2m preguntas).
 
+## Entregables
+
+Conversión a escala de grises:
+
+* Imágenes
+
+
 > :ToCPrevNext

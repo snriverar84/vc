@@ -20,4 +20,4 @@
 
 > :Collapse label=Team
 > 
-> [NN](/docs/team/nn)
+> [Sergio Rivera](/docs/team/snriverar)
