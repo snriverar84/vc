@@ -27,6 +27,6 @@ Conversión a escala de grises:
 
 Conversión de la imagen a un foto-mosaico:
 
-* Descargar: [Foto Mosaico](vc/Mosaico.zip)
+* Descargar: [Foto Mosaico](Mosaico.zip)
 
 > :ToCPrevNext
