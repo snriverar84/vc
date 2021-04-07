@@ -25,6 +25,8 @@ Conversión a escala de grises:
 
 * Imágenes
 
-> :P5 lib1=https://unpkg.com/ml5@latest/dist/ml5.min.js, sketch=home/snriverar/vc/docs/sketches/lib.js, width=512, height=512
+Conversión de la imagen a un foto-mosaico:
+
+* Descargar: [Foto Mosaico](/Mosaico.zip)
 
 > :ToCPrevNext
